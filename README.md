@@ -11,4 +11,4 @@ measure water level using soil-moisture sensor  -->  calculate rate of change of
 ## Code description
 - [Reading soil moisture](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/Read_soil_moisture)
 - [Commanding water pump to run at a particular speed](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/Command_pump)
-- [Calculating rate of water supply](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/moisture_rate)
+- [Calculating rate of water supply](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/Moisture_rate)
