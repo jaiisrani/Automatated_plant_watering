@@ -16,4 +16,4 @@ measure water level using soil-moisture sensor  -->  calculate rate of change of
 - [Buzzer](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/Buzzer)
 - [Temperature sensing of the surrounding air](https://github.com/jaiisrani/Automated_plant_watering/tree/main/Temperature_sensor)
 - [Ultrasonic sensor](https://github.com/jaiisrani/Automated_plant_watering/tree/main/Ultrasonic_sensor)
-- [Putting the above codes together to get an automated plant-watering system](https://github.com/jaiisrani/Automated_plant_watering/tree/main/Automated_plant_watering)
+- [Putting the above codes together to get an automated plant-watering system without detecting water level in tank](https://github.com/jaiisrani/Automated_plant_watering/tree/main/Automated_plant_watering_without_ultrasonic)
