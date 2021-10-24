@@ -14,5 +14,5 @@ measure water level using soil-moisture sensor  -->  calculate rate of change of
 - [Calculating rate of water supply](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/Moisture_rate)
 - [Appropriate circuit and code for powering the pump](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/Power_pump)
 - [Buzzer](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/Buzzer)
-- [Temperature sensing](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/Temperature_sensor)
+- [Temperature sensing of the surrounding air](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/Temperature_sensor)
 - [Putting the above codes together to get an automated plant-watering system](https://github.com/jaiisrani/Automatated_plant_watering/tree/main/Automated_plant_watering)
