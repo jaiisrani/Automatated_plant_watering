@@ -18,3 +18,4 @@ measure water level using soil-moisture sensor  -->  calculate rate of change of
 - [Ultrasonic sensor](https://github.com/jaiisrani/Automated_plant_watering/tree/main/Ultrasonic_sensor)
 - [Putting the above codes together to get an automated plant-watering system without detecting water level in tank](https://github.com/jaiisrani/Automated_plant_watering/tree/main/Automated_plant_watering_without_ultrasonic)
 - [Putting the above codes together to get an automated plant-watering system alongwith detecting water level in tank and alerting when it's low](https://github.com/jaiisrani/Automated_plant_watering/tree/main/Automated_plant_watering_with_ultrasonic)
+- [A more sophisticated code for automated plant watering that takes averaging into consideration](https://github.com/jaiisrani/Automated_plant_watering/tree/main/Automated_plant_watering_with_averaging)
