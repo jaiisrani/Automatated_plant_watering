@@ -2,7 +2,7 @@
 
 Microprocessors 2021 project
 
-Repo will initially contain rough drafts of my codes, and final ones later on.
+[Video demonstration](https://youtu.be/s-nVILJp8BU)
 
 ### Flowchart
 
