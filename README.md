@@ -1,6 +1,6 @@
 # Automatated plant watering system
 
-Microprocessors 2021 project
+
 
 [Video demonstration](https://youtu.be/s-nVILJp8BU)
 
